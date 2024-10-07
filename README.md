@@ -10,7 +10,7 @@
 [report]: https://goreportcard.com/report/github.com/Netflix/chaosmonkey
 
 Chaos Monkey randomly terminates virtual machine instances and containers that
-run inside of your production environment. Exposing engineers to
+run inside of your production of environment. Exposing engineers to
 failures more frequently incentivizes them to build resilient services.
 
 See the [documentation][docs] for info on how to use Chaos Monkey.
